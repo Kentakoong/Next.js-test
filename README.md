@@ -1,1 +1,1 @@
-"# Next.js-test" 
+My Practices for Next.js
